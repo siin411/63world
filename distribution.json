@@ -1524,8 +1524,8 @@
           "name": "servers.dat",
           "type": "File",
           "artifact": {
-            "size": 22207,
-            "MD5": "e59e4db0f27987e17567a3f90b7f434b",
+            "size": 91,
+            "MD5": "7e2a2888037abf402b30092ca5784e89",
             "path": "servers.dat",
             "url": "https://siin411.github.io/63world/files/servers.dat"
           }
