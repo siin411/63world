@@ -1,4 +1,4 @@
-﻿{
+{
   "version": "1.0.0",
   "rss": "https://github.com/dscalzi/HeliosLauncher/releases.atom",
   "servers": [
@@ -1587,8 +1587,8 @@
             "def": true
           },
           "artifact": {
-            "size": 2689,
-            "MD5": "bf78743aa6860c2a43812feae33e5a80",
+            "size": 2688,
+            "MD5": "6b8da06ae4e02c51338a1a254c3a6ca1",
             "path": "journeymap/config/6.0/journeymap.core.config",
             "url": "https://siin411.github.io/63world/files/journeymap/config/6.0/journeymap.core.config"
           }
@@ -1696,36 +1696,6 @@
             "MD5": "8744ca8d38e13042ff4c4b742b9004e8",
             "path": "journeymap/config/6.0/journeymap.webmap.config",
             "url": "https://siin411.github.io/63world/files/journeymap/config/6.0/journeymap.webmap.config"
-          }
-        },
-        {
-          "id": "world63.journeymap:e88335456d3b8e0be92d1ddb1e251795:1.0.0",
-          "name": "WaypointData",
-          "type": "File",
-          "required": {
-            "value": true,
-            "def": true
-          },
-          "artifact": {
-            "size": 1252,
-            "MD5": "0ebf15ee50d14680c37275c0ac76d129",
-            "path": "journeymap/data/mp/1~21~4/waypoints/WaypointData.dat",
-            "url": "https://siin411.github.io/63world/files/journeymap/data/mp/1~21~4/waypoints/WaypointData.dat"
-          }
-        },
-        {
-          "id": "world63.journeymap:53ea8e322d1383ffcc2209d32ea20371:1.0.0",
-          "name": "WaypointData",
-          "type": "File",
-          "required": {
-            "value": true,
-            "def": true
-          },
-          "artifact": {
-            "size": 1252,
-            "MD5": "0ebf15ee50d14680c37275c0ac76d129",
-            "path": "journeymap/data/mp/1~21~4/waypoints/backup/WaypointData.dat",
-            "url": "https://siin411.github.io/63world/files/journeymap/data/mp/1~21~4/waypoints/backup/WaypointData.dat"
           }
         }
       ]
