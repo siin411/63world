@@ -1,0 +1,66 @@
+{
+  "hud": {
+    "general": {
+      "enable_hud": true,
+      "hide_hud_on_debug": false
+    },
+    "display": {
+      "enable_head": true,
+      "enable_local_date_time_label": false,
+      "enable_nickname_label": true,
+      "enable_coordinates_label": true,
+      "enable_biome_label": true
+    },
+    "head": {
+      "head_render_mode": "BOLD"
+    },
+    "label": {
+      "enable_label_frame": true,
+      "label_frame_color": "#000000",
+      "label_background_color": "#444444",
+      "label_background_opacity": 70
+    },
+    "text": {
+      "text_color": "#FFFFFF",
+      "enable_text_shadows": false,
+      "text_opacity": 90,
+      "text_align_mode": "CENTER",
+      "local_date_time_mode": "DATE_AND_TIME"
+    },
+    "layout": {
+      "label_width": 100,
+      "label_line_spacing": 0,
+      "hud_scale": 0,
+      "position_x": 0,
+      "position_y": 0,
+      "offset": 10
+    }
+  },
+  "indicator": {
+    "general": {
+      "enable_indicator": false
+    },
+    "display": {
+      "attacking_at": true,
+      "looking_at": true,
+      "damaged_only": false,
+      "indicator_mode": "BAR_AND_NAME_A",
+      "indicator_bar_mode": "BAR_AND_NUMBER",
+      "duration": 10,
+      "reach": 20
+    },
+    "entities": {
+      "player_entities": true,
+      "self_player_entity": false,
+      "passive_entities": true,
+      "hostile_entities": true
+    },
+    "text": {
+      "enable_text_shadows": true
+    },
+    "layout": {
+      "position_y": 0,
+      "name_scale": 0
+    }
+  }
+}
