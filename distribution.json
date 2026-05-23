@@ -1531,28 +1531,6 @@
           }
         },
         {
-          "id": "world63.shaderpacks:324f09c3d1c736576a09782ff75c2f68:1.0.0",
-          "name": "shaderpacks\\BSL_v10.1.3.zip",
-          "type": "File",
-          "artifact": {
-            "size": 1127026,
-            "MD5": "324f09c3d1c736576a09782ff75c2f68",
-            "path": "shaderpacks/BSL_v10.1.3.zip",
-            "url": "https://siin411.github.io/63world/files/shaderpacks/BSL_v10.1.3.zip"
-          }
-        },
-        {
-          "id": "world63.shaderpacks:0381d3edc70f1d90cc2591d427d75065:1.0.0",
-          "name": "shaderpacks\\ComplementaryReimagined_r5.8.zip",
-          "type": "File",
-          "artifact": {
-            "size": 544613,
-            "MD5": "0381d3edc70f1d90cc2591d427d75065",
-            "path": "shaderpacks/ComplementaryReimagined_r5.8.zip",
-            "url": "https://siin411.github.io/63world/files/shaderpacks/ComplementaryReimagined_r5.8.zip"
-          }
-        },
-        {
           "id": "world63.mods:e30105d909e69c835af2baacd2426885:1.0.0",
           "name": "journeymap-fabric-1.21.4-6.0.0-beta.47",
           "type": "FabricMod",
@@ -1685,6 +1663,21 @@
             "MD5": "8744ca8d38e13042ff4c4b742b9004e8",
             "path": "journeymap/config/6.0/journeymap.webmap.config",
             "url": "https://siin411.github.io/63world/files/journeymap/config/6.0/journeymap.webmap.config"
+          }
+        },
+        {
+          "id": "world63.shaderpacks:0a3553109dbe689a9f76d1aedc8f50c6:1.0.0",
+          "name": "shaderpacks\\ComplementaryUnbound_r5.8.1.zip",
+          "type": "File",
+          "required": {
+            "value": true,
+            "def": true
+          },
+          "artifact": {
+            "size": 546928,
+            "MD5": "0a3553109dbe689a9f76d1aedc8f50c6",
+            "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip",
+            "url": "https://siin411.github.io/63world/files/shaderpacks/ComplementaryUnbound_r5.8.1.zip"
           }
         }
       ]
